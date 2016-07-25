@@ -10,7 +10,9 @@ resist attacks by quantum computers, is the **ephemeral key exchange**.
 Alkim, Ducas, Pöppelmann, and Schwabe proposed such a protocol that they call _NewHope_. The _NewHope_ protocol provides the highest security level of post-quantum key exchanges, known to the authors. 
 More details about the protocol can be found in the paper from the authors of [NewHope](https://cryptojedi.org/papers/newhope-20151207.pdf).
 
-Within this repository, we provide two cycle count optimized versions of the key exchange. We used the ARM Cortex-M family as target architectures. To cover the whole range of that microcontroller family, we have to differentiate between two architectures:
+This repository contains the codes of a joint project with Philipp Jakubeit (phil.jakubeit@gmail.com) and Peter Schwabe (cryptojedi.org). Please use all names if you want to refer to this codes.
+
+Within this repository, We provide two cycle count optimized versions of the key exchange. We used the ARM Cortex-M family as target architectures. To cover the whole range of that microcontroller family, we have to differentiate between two architectures:
 
 * ARMv6-M 
 * ARMv7-M

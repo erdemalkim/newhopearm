@@ -1,3 +1,6 @@
+The codes in this directory are written by Philipp Jakubeit (phil.jakubeit@gmail.com). Please
+refer to him if you want to use this codes.
+
 This directory contains the first release of the Newhope key-exchange  
 scheme optimized for the Cortex-M0 and the underlying ARMv6-M 
 architecture. Further refered to as NH4CM0 inside this document.
